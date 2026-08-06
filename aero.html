@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aero — Sola Lumina</title>
+<meta name="description" content="Aero puts your whole portfolio on one Mac screen. Every account, every position, and what the market did to them today.">
+<style>
+  /* Self-contained on purpose: the main site is a built SPA with hashed asset
+     bundles, so this page carries its own styles rather than depending on a
+     filename that changes on the next deploy. Palette matches solalumina.com. */
+  :root {
+    --ink: #0c0b08;
+    --ink-soft: #15130e;
+    --paper: #f2eee5;
+    --paper-bright: #faf7ef;
+    --muted: #6b665c;
+    --rule: #ddd6c8;
+    --accent: #3f7d1f;
+    --serif: "Iowan Old Style", Baskerville, "Times New Roman", serif;
+    --sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--paper); color: var(--ink);
+    font-family: var(--sans); line-height: 1.6; -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 46rem; margin: 0 auto; padding: 4rem 1.5rem 5rem; }
+  header { margin-bottom: 3rem; }
+  .eyebrow {
+    font-size: .8rem; letter-spacing: .08em; text-transform: uppercase;
+    color: var(--muted); margin: 0 0 1rem;
+  }
+  .eyebrow a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--rule); }
+  .eyebrow a:hover { color: var(--ink); }
+  h1 { font-family: var(--serif); font-size: clamp(2.1rem, 6vw, 3rem); line-height: 1.12; margin: 0 0 1rem; font-weight: 400; }
+  .lede { font-size: 1.2rem; color: var(--ink-soft); margin: 0 0 .5rem; }
+  h2 {
+    font-size: .82rem; letter-spacing: .09em; text-transform: uppercase;
+    color: var(--muted); font-weight: 600; margin: 2.5rem 0 .6rem;
+  }
+  p { margin: 0 0 1rem; }
+  .note {
+    background: var(--paper-bright); border: 1px solid var(--rule);
+    border-radius: .6rem; padding: 1rem 1.25rem; margin: 2.5rem 0 0;
+  }
+  .note p:last-child { margin-bottom: 0; }
+  footer {
+    margin-top: 3.5rem; padding-top: 1.5rem; border-top: 1px solid var(--rule);
+    font-size: .9rem; color: var(--muted);
+  }
+  a { color: var(--accent); }
+  footer a { color: var(--muted); }
+  .req { font-size: .95rem; color: var(--muted); margin-top: 1rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow"><a href="https://solalumina.com/">Sola Lumina</a> — Aero</p>
+    <h1>Aero puts your whole portfolio on one Mac screen.</h1>
+    <p class="lede">
+      Every account, every position, and what the market did to them today — no tabs
+      to dig through, no switching between brokerage websites. Open the window and the
+      picture is there.
+    </p>
+    <p class="req">Requires macOS 14 or later.</p>
+  </header>
+
+  <h2>One view, every account</h2>
+  <p>
+    Hold the same stock in a rollover IRA, a Roth, and a taxable brokerage and Aero
+    shows you the whole position at once — then breaks it down per account when you
+    want the detail. Cash is counted too, so the total is the real total.
+  </p>
+
+  <h2>See the day at a glance</h2>
+  <p>
+    A heatmap colours every holding by the day's move, so the winners and the drags
+    are obvious before you read a single number. A plain-language recap tells you
+    where the portfolio stands and which position led or lagged.
+  </p>
+
+  <h2>Measure against the market</h2>
+  <p>
+    Compare your portfolio's performance against the S&amp;P 500, Nasdaq, Dow Jones,
+    and Russell 2000 on one chart. Choose a single day, a week, a month, a quarter, a
+    year, or the whole history — and hover anywhere on the curve to read the exact
+    figure.
+  </p>
+
+  <h2>Import what you already have</h2>
+  <p>
+    Drag in CSV exports from your brokerage, or screenshots of your holdings, and Aero
+    reads them. Up to 100 files at once. If you already have accounts, it compares what's
+    incoming against what's there and shows you exactly what would change — line by line
+    — before anything is written. Nothing is committed until you accept it, and you can
+    cancel the whole thing at any point.
+  </p>
+
+  <h2>Built for the Mac</h2>
+  <p>
+    A native Mac app, not a web page in a window. Sign in with Apple — no password to
+    create, no email to hand over.
+  </p>
+
+  <div class="note">
+    <p>
+      Aero shares an account with Moment, so your portfolio follows you between your Mac
+      and your iPhone.
+    </p>
+  </div>
+
+  <footer>
+    <p>
+      <a href="aero-support.html">Support</a> &nbsp;·&nbsp;
+      <a href="privacypolicy.html">Privacy Policy</a> &nbsp;·&nbsp;
+      <a href="https://solalumina.com/">Sola Lumina</a>
+    </p>
+  </footer>
+
+</div>
+</body>
+</html>
