@@ -1,0 +1,25 @@
+"Positions for All-Accounts as of 09:41 AM ET, 08/13/2026"
+
+Brokerage ...111
+"Symbol","Description","Qty (Quantity)","Price","Price Chng $ (Price Change $)","Price Chng % (Price Change %)","Mkt Val (Market Value)","Day Chng $ (Day Change $)","Day Chng % (Day Change %)","Cost Basis","Gain $ (Gain/Loss $)","Gain % (Gain/Loss %)","Reinvest?","Reinvest Capital Gains?","Asset Type",
+"AAPL","APPLE INC","25","231.4","1.15","0.50%","$5,785.00","$28.75","0.50%","$4,890.00","$895.00","18.30%","Yes","N/A","Equity",
+"MSFT","MICROSOFT CORP","12","418.6","-2.3","-0.55%","$5,023.20","-$27.60","-0.55%","$3,980.00","$1,043.20","26.21%","No","N/A","Equity",
+"VOO","VANGUARD S&P 500 ETF","40","512.75","3.05","0.59%","$20,510.00","$122.00","0.60%","$14,200.00","$6,310.00","44.44%","Yes","N/A","ETFs & Closed End Funds",
+"Cash & Cash Investments","--","--","--","--","--","$1,250.00","$0.00","0%","--","--","--","--","--","Cash and Money Market",
+"Positions Total","","--","--","--","--","$32,568.20","$123.15","0.38%","$24,320.00","$8,248.20","33.92%","--","--","--",
+
+Roth IRA ...222
+"Symbol","Description","Qty (Quantity)","Price","Price Chng $ (Price Change $)","Price Chng % (Price Change %)","Mkt Val (Market Value)","Day Chng $ (Day Change $)","Day Chng % (Day Change %)","Cost Basis","Gain $ (Gain/Loss $)","Gain % (Gain/Loss %)","Reinvest?","Reinvest Capital Gains?","Asset Type",
+"VTI","VANGUARD TOTAL STOCK MARKET ETF","60","279.15","1.42","0.51%","$16,749.00","$85.20","0.51%","$12,450.00","$4,299.00","34.53%","Yes","N/A","ETFs & Closed End Funds",
+"NVDA","NVIDIA CORP","18","174.3","-1.85","-1.06%","$3,137.40","-$33.30","-1.05%","$1,620.00","$1,517.40","93.67%","No","N/A","Equity",
+"Cash & Cash Investments","--","--","--","--","--","$640.55","$0.00","0%","--","--","--","--","--","Cash and Money Market",
+"Positions Total","","--","--","--","--","$20,526.95","$51.90","0.25%","$14,710.55","$5,816.40","39.54%","--","--","--",
+
+Traditional IRA ...333
+"Symbol","Description","Qty (Quantity)","Price","Price Chng $ (Price Change $)","Price Chng % (Price Change %)","Mkt Val (Market Value)","Day Chng $ (Day Change $)","Day Chng % (Day Change %)","Cost Basis","Gain $ (Gain/Loss $)","Gain % (Gain/Loss %)","Reinvest?","Reinvest Capital Gains?","Asset Type",
+"SCHD","SCHWAB US DIVIDEND EQUITY ETF","145","27.85","0.11","0.39%","$4,038.25","$15.95","0.40%","$3,610.00","$428.25","11.86%","Yes","N/A","ETFs & Closed End Funds",
+"JNJ","JOHNSON & JOHNSON","30","162.9","0.44","0.27%","$4,887.00","$13.20","0.27%","$4,350.00","$537.00","12.34%","Yes","N/A","Equity",
+"BRK.B","BERKSHIRE HATHAWAY INC CL B","8","471.2","2.6","0.55%","$3,769.60","$20.80","0.55%","$2,980.00","$789.60","26.50%","No","N/A","Equity",
+"Cash & Cash Investments","--","--","--","--","--","$2,100.10","$0.00","0%","--","--","--","--","--","Cash and Money Market",
+"Positions Total","","--","--","--","--","$14,794.95","$49.95","0.34%","$13,040.10","$1,754.85","13.46%","--","--","--",
+
